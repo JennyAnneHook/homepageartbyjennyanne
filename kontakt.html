@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hemsidan</title>
+    <link rel="Stylesheet" href="style.css"/>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Art By Jenny Anne</h1>
+        <h2>Välkommen till min värld full av färg och form! </h2>       
+        </header>
+    <nav>
+        <ul>
+        <a href="Hem">Hem</a>
+        <a href="Om">Om mig</a>
+        <a href="Galleri">Galleri</a>
+        <a href="Kontakt">Kontakt</a>
+        </ul>
+    </nav>
+    <div class="container">
+        <form onsubmit="sendEmail()"; reset(); return false>
+        
+            <input type="text" id="Name" placeholder="Namn" required/>
+            <input type="email" id="Email" placeholder="Email"  required/>
+            <textarea id="message" rows="4" placeholder="Meddelande" required></textarea>
+            <button type="submit">Skicka</button>
+           
+        </form>
+    </div> 
