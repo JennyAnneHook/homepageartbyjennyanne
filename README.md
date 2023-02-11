@@ -1,4 +1,4 @@
-This site is made for my degreeproject in Front End developer-class FEC21D
+This site is made for my degreeproject in Front End developer-class FED21D
 I set up 3 sprints, and managed to work with them like I planned: 
 
 First 2 weeks I took lots of photos, made a moodboard, wireframes of how I wanted every side to look, decided wich font I should use and so on. For ex I used Times New Roman for all texts because it is easy for the user to read. 
